@@ -2,6 +2,7 @@
 
 Este projeto implementa a fórmula de Bhaskara para o cálculo das raízes de uma equação do segundo grau da forma:
 
+ax² + bx + c = 0
 
 ## Como funciona?
 
