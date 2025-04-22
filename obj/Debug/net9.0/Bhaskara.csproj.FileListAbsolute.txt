@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\obj\Debug\net9.0\Bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\obj\Debug\net9.0\Bhaskara.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\obj\Debug\net9.0\Bhaskara.AssemblyInfo.cs
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\obj\Debug\net9.0\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\bin\Debug\net9.0\Bhaskara.exe
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\bin\Debug\net9.0\Bhaskara.deps.json
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\bin\Debug\net9.0\Bhaskara.runtimeconfig.json
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\bin\Debug\net9.0\Bhaskara.dll
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\bin\Debug\net9.0\Bhaskara.pdb
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\obj\Debug\net9.0\Bhaskara.dll
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\obj\Debug\net9.0\refint\Bhaskara.dll
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\obj\Debug\net9.0\Bhaskara.pdb
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\obj\Debug\net9.0\Bhaskara.genruntimeconfig.cache
+C:\Users\User\Documents\Projetos de Programação\Bhaskara-csharpe\obj\Debug\net9.0\ref\Bhaskara.dll
