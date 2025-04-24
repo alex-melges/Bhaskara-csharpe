@@ -12,6 +12,19 @@ O programa solicita ao usuário os valores dos coeficientes **a**, **b** e **c**
 - **Se Δ = 0**: Existe uma única raiz real (raízes iguais).
 - **Se Δ < 0**: Existem duas raízes complexas conjugadas.
 
+### Exemplo de Execução
+
+Ao rodar o programa, o usuário verá a seguinte saída:
+
+=== Fórmula de Bhaskara para o cálculo de raízes de polinômios de 2º grau ===
+
+A equação do segundo grau tem a forma: ax² + bx + c = 0 Informe os coeficientes abaixo:
+
+Digite o coeficiente a (não pode ser nulo): 1 Digite o coeficiente b: -3 Digite o coeficiente c: 2
+
+Discriminante (Δ) = 1 As raízes reais são: x1 = 2 x2 = 1
+
+
 ## Como executar
 
 1. Clone o repositório ou baixe os arquivos para o seu computador.
@@ -20,17 +33,14 @@ O programa solicita ao usuário os valores dos coeficientes **a**, **b** e **c**
 
 ```bash
 dotnet run
+```
 
-=== Fórmula de Bhaskara para o cálculo de raízes de polinômios de 2º grau ===
+O programa solicitará os coeficientes a, b e c, calculará as raízes e exibirá o resultado no terminal.
 
-A equação do segundo grau tem a forma: ax² + bx + c = 0
-Informe os coeficientes abaixo:
+## Arquivos
+- **Bhaskara.cs:** Implementação do cálculo das raízes de uma equação de segundo grau utilizando a fórmula de Bhaskara.
+- **Bhaskara.csproj:** Arquivo de configuração do projeto, necessário para compilar e rodar a aplicação.
 
-Digite o coeficiente a (não pode ser nulo): 1
-Digite o coeficiente b: -3
-Digite o coeficiente c: 2
-
-Discriminante (Δ) = 1
-As raízes reais são:
-x1 = 2
-x2 = 1
+## Ferramentas e Tecnologias Utilizadas
+- **C#:** Linguagem principal utilizada para a implementação do programa.
+- **.NET SDK:** Framework utilizado para compilar e executar o projeto (versão 9.0).

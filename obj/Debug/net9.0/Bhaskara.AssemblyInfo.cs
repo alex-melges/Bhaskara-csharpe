@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bhaskara")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+213f0ec342fab436738d0a51717765cd1ca2f098")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bhaskara")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bhaskara")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
